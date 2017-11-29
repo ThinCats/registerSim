@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1511962999 source:d:\registersim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"registers.h"
+
+1511962061 d:\registersim\registers.h
+	<stdio.h>
+	<string.h>
+
+1511966571 source:c:\users\brody\pictures\好玩的图片\registersim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"registers.h"
+
+1511962061 c:\users\brody\pictures\好玩的图片\registersim\registers.h
+	<stdio.h>
+	<string.h>
+
+1511966326 source:c:\users\brody\pictures\好玩的图片\registersim\registers.c
+	"registers.h"
+
